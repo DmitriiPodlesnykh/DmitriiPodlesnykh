@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+📫 How to reach me:
+
+[LinkedIn](https://www.linkedin.com/mwlite/in/dmitrii-podlesnykh)
+
+[Telegram](https://t.me/DmitriiPodlesnykh)
+
+[Instagram](https://www.instagram.com/d.podlesnykh/)
+
+[VK](https://www.vk.com/dmitriipodlesnykh)
 <!--
 **DmitriiPodlesnykh/DmitriiPodlesnykh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
