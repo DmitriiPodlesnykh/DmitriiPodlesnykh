@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 How to reach me:
+### 📫 How to reach me:
 
 [LinkedIn](https://www.linkedin.com/mwlite/in/dmitrii-podlesnykh)
 
@@ -9,8 +9,13 @@
 [Instagram](https://www.instagram.com/d.podlesnykh/)
 
 [VK](https://www.vk.com/dmitriipodlesnykh)
+<br>
+<br>
 
+### Places for exercise:
 [LeetCode](https://leetcode.com/DmitriiPodlesnykh/)
+
+[HackerRank](https://www.hackerrank.com/d_podlesnykh)
 <!--
 **DmitriiPodlesnykh/DmitriiPodlesnykh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
