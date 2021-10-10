@@ -9,7 +9,13 @@
 [Instagram](https://www.instagram.com/d.podlesnykh/)
 
 [VK](https://www.vk.com/dmitriipodlesnykh)
+
 <br>
+
+### Resume:
+[/DmitriiPodlesnykh/resume](https://github.com/DmitriiPodlesnykh/resume)
+
+
 <br>
 
 ### Places for exercise:
