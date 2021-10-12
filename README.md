@@ -10,12 +10,10 @@
 
 [VK](https://www.vk.com/dmitriipodlesnykh)
 
-<br>
 
 ### Resume:
 [Dmitrii_Podlesnykh.pdf](https://github.com/DmitriiPodlesnykh/resume/files/7333442/Dmitrii_Podlesnykh.pdf) / [.docx](https://github.com/DmitriiPodlesnykh/resume/files/7333444/Dmitrii_Podlesnykh.docx) / [.md](https://github.com/DmitriiPodlesnykh/resume/blob/master/Dmitrii_Podlesnykh.md) / [Google Doc link](https://docs.google.com/document/d/19W0rGvzkZEzHNFFNjD_tDxCzzpNnHh4xmTiTQz0plxg/edit?usp=sharing)
 
-<br>
 
 ### Places for exercise:
 [LeetCode](https://leetcode.com/DmitriiPodlesnykh/)
