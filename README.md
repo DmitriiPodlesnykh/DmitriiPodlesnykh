@@ -12,7 +12,7 @@
 
 
 ### Resume:
-[Dmitrii_Podlesnykh.md](https://gist.github.com/DmitriiPodlesnykh/0f85369a5f6c8035a6713e3a58a2e378) / [Google Doc link](https://docs.google.com/document/d/19W0rGvzkZEzHNFFNjD_tDxCzzpNnHh4xmTiTQz0plxg/edit?usp=sharing)
+[Dmitrii_Podlesnykh. (Google Doc link)](https://docs.google.com/document/d/19W0rGvzkZEzHNFFNjD_tDxCzzpNnHh4xmTiTQz0plxg/edit?usp=sharing)
 
 
 ### Places for exercise:
