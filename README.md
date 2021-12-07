@@ -2,7 +2,7 @@
 
 ### 📫 How to reach me:
 
-[LinkedIn](https://www.linkedin.com/mwlite/in/dmitrii-podlesnykh)
+[LinkedIn](https://www.linkedin.com/in/dmitrii-podlesnykh)
 
 [Telegram](https://t.me/DmitriiPodlesnykh)
 
