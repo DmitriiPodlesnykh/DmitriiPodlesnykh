@@ -1,24 +1,24 @@
 ### Hi there 👋
 
+### <a href="https://docs.google.com/document/d/19W0rGvzkZEzHNFFNjD_tDxCzzpNnHh4xmTiTQz0plxg/edit?usp=sharing" target="_blank">📝 Resume (Google Doc link)</a>
+
 ### 📫 How to reach me:
 
-[LinkedIn](https://www.linkedin.com/in/dmitrii-podlesnykh)
+* [LinkedIn](https://www.linkedin.com/in/dmitrii-podlesnykh)
 
-[Telegram](https://t.me/DmitriiPodlesnykh)
+* [Telegram](https://t.me/DmitriiPodlesnykh)
 
-[Instagram](https://www.instagram.com/d.podlesnykh/)
+* [Instagram](https://www.instagram.com/d.podlesnykh/)
 
-[VK](https://www.vk.com/dmitriipodlesnykh)
+* [YouTube](https://www.youtube.com/channel/UC4eAGA-fuOl0a5LIz1m1qYA)
 
-
-### Resume:
-[Dmitrii_Podlesnykh. (Google Doc link)](https://docs.google.com/document/d/19W0rGvzkZEzHNFFNjD_tDxCzzpNnHh4xmTiTQz0plxg/edit?usp=sharing)
+* [VK](https://www.vk.com/dmitriipodlesnykh)
 
 
-### Places for exercise:
-[LeetCode](https://leetcode.com/DmitriiPodlesnykh/)
+### 🌱 Places for exercise:
+* [LeetCode](https://leetcode.com/DmitriiPodlesnykh/)
 
-[HackerRank](https://www.hackerrank.com/d_podlesnykh)
+* [HackerRank](https://www.hackerrank.com/d_podlesnykh)
 <!--
 **DmitriiPodlesnykh/DmitriiPodlesnykh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
