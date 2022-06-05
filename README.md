@@ -12,8 +12,6 @@
 
 * [YouTube](https://www.youtube.com/channel/UC4eAGA-fuOl0a5LIz1m1qYA)
 
-* [VK](https://www.vk.com/dmitriipodlesnykh)
-
 
 ### 🌱 Places for exercise:
 * [LeetCode](https://leetcode.com/DmitriiPodlesnykh/)
