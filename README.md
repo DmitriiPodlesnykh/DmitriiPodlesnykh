@@ -14,9 +14,8 @@
 
 
 ### 🌱 Places for exercise:
-* [LeetCode](https://leetcode.com/DmitriiPodlesnykh/)
-
-* [HackerRank](https://www.hackerrank.com/d_podlesnykh)
+[LeetCode](https://leetcode.com/DmitriiPodlesnykh/)    |   [HackerRank](https://www.hackerrank.com/d_podlesnykh)
+<br/>![LeetCode Stats](https://leetcard.jacoblin.cool/DmitriiPodlesnykh?theme=unicorn&font=Itim)
 <!--
 **DmitriiPodlesnykh/DmitriiPodlesnykh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
