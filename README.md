@@ -4,13 +4,7 @@
 
 ### 📫 How to reach me:
 
-* [LinkedIn](https://www.linkedin.com/in/dmitrii-podlesnykh)
-
-* [Telegram](https://t.me/DmitriiPodlesnykh)
-
-* [Instagram](https://www.instagram.com/d.podlesnykh/)
-
-* [YouTube](https://www.youtube.com/channel/UC4eAGA-fuOl0a5LIz1m1qYA)
+[LinkedIn](https://www.linkedin.com/in/dmitrii-podlesnykh) | [Telegram](https://t.me/DmitriiPodlesnykh) | [Instagram](https://www.instagram.com/d.podlesnykh/) | [YouTube](https://www.youtube.com/channel/UC4eAGA-fuOl0a5LIz1m1qYA)
 
 
 ### 🌱 Places for exercise:
