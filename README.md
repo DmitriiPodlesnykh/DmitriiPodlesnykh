@@ -4,11 +4,14 @@
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-%230e76a8?style=flat&logo=linkedin)](https://www.linkedin.com/in/dmitrii-podlesnykh)
+</br>
 [![StackOverflow profile](https://img.shields.io/badge/StackOverflow-profile-%232CA5E0?style=flat)](https://stackoverflow.com/users/6460906/dmitrii-podlesnykh)
+</br>
 [![Telegram](https://img.shields.io/badge/Telegram-ping-%232CA5E0?style=flat&logo=telegram)](https://t.me/DmitriiPodlesnykh)
-[![YouTube Channel Views][youtube-icon]][youtube-channel-link]
+</br>
 [![Instagram][instagram-icon]][instagram-link]
-
+</br>
+[![YouTube Channel Views][youtube-icon]][youtube-channel-link]
 
 ### 🌱 Places for exercise:
 [HackerRank](https://www.hackerrank.com/d_podlesnykh)
