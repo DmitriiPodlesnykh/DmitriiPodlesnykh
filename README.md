@@ -13,8 +13,6 @@
 </br>
 [![YouTube Channel Views][youtube-icon]][youtube-channel-link]
 
-### 🌱 Places for exercise:
-[HackerRank](https://www.hackerrank.com/d_podlesnykh)
 <br/>[![LeetCode Stats][1]][profile-link]
 
 [1]: https://leetcard.jacoblin.cool/DmitriiPodlesnykh?theme=unicorn&font=Itim
