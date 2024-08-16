@@ -9,9 +9,6 @@
 </br>
 [![Telegram](https://img.shields.io/badge/Telegram-ping-%232CA5E0?style=flat&logo=telegram)](https://t.me/DmitriiPodlesnykh)
 </br>
-[![Instagram][instagram-icon]][instagram-link]
-</br>
-[![YouTube Channel Views][youtube-icon]][youtube-channel-link]
 
 <br/>[![LeetCode Stats][1]][profile-link]
 
