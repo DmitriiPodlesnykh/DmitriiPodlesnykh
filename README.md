@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### [📝 Resume (Google Doc link)][google-dock-cv-link]
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-%230e76a8?style=flat&logo=linkedin)](https://www.linkedin.com/in/dmitrii-podlesnykh)
@@ -14,7 +13,6 @@
 
 [1]: https://leetcard.jacoblin.cool/DmitriiPodlesnykh?theme=unicorn&font=Itim
 [profile-link]: https://leetcode.com/DmitriiPodlesnykh/
-[google-dock-cv-link]: https://docs.google.com/document/d/1sQtUH3BKyEkT9TgD94YlFggHkE9fWbtz-9qSp7KJFK0/edit?usp=sharing
 
 [instagram-icon]: https://img.shields.io/badge/Instagram-profile-white?style=flat&logo=Instagram
 [instagram-link]: https://www.instagram.com/d.podlesnykh/
